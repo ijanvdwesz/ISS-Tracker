@@ -21,8 +21,8 @@ A web application that tracks the real-time location of the International Space 
 
 ## 📸 Screenshots
 
-![Home View](images/screenshot1.png)  
-![Live Tracking](images/screenshot2.png)
+![Home View](images/screenshot-1.png)  
+![Live Tracking](images/screenshot-2.png)
 
 ## 📦 Getting Started
 
