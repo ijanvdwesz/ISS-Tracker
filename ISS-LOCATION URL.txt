@@ -1,0 +1,2 @@
+https://storage.googleapis.com/iss-tracker/ISS-location.html
+//INCASE THE MAP DOESNT SHOW UP VISIT THE SITE ABOVE (I RESTRICTED THE API TO THIS SITE)

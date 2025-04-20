@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ISS Current Location</title>
+  <link rel="stylesheet" href="styles/ISS-location.css">
+</head>
+<body>
+  <div class="container">
+    <h1>ISS Current Location</h1>
+    <p><strong>Latitude:</strong> <span id="latitude">Loading...</span></p>
+    <p><strong>Longitude:</strong> <span id="longitude">Loading...</span></p>
+    <p><strong>Timestamp:</strong> <span id="timestamp">Loading...</span></p>
+    <button id="refresh">Refresh Location</button>
+  </div>
+  <div id="map"></div>
+  <script src="scripts/ISS-location.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAosaqSJm5RVYOUSTclJpE0qT4GNSzsXOU&callback=initMap" async defer></script>
+
+</body>
+</html>
